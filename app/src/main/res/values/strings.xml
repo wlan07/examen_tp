@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">examen_tp</string>
+    <string name="nom">Nom :</string>
+    <string name="numero">Numéro :</string>
+    <string name="adresse">Adresse :</string>
+    <string name="cancel">Annuler</string>
+    <string name="valid">Valider</string>
+
+</resources>
